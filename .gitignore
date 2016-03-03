@@ -73,6 +73,10 @@ testCaseCollection.xml
 CMakeFiles
 *.cmake
 
+# Python compilation
+*.pyc
+
+
 # Outputs
 Examples/BasketLosses/BasketLosses
 Examples/BermudanSwaption/BermudanSwaption
